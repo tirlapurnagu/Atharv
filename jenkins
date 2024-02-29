@@ -1,0 +1,5 @@
+#!/bin/bash
+pwd
+cd /home/ubuntu/
+touch nagu.txt
+chmod 777 nagu.txt

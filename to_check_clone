@@ -1,5 +1,5 @@
 #!/bin/bash/
 cd /Desktop
 pwd
-mkdir nagu
-chmod 775
+mkdir narendra
+chmod 775 narendra
